@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="white"/>
+  <text x="60" y="60" font-family="Arial, sans-serif" font-size="34" font-weight="700">Maine Road Trip — Sept. 16–28, 2026</text>
+  <text x="60" y="95" font-family="Arial, sans-serif" font-size="18">Approximate route overview</text>
+
+  <polyline points="100,590 330,490 520,400 650,320 800,270 970,235 1010,320 830,420 520,500 100,590"
+            fill="none" stroke="#333" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <g fill="white" stroke="#111" stroke-width="4">
+    <circle cx="100" cy="590" r="12"/>
+    <circle cx="330" cy="490" r="12"/>
+    <circle cx="520" cy="400" r="12"/>
+    <circle cx="650" cy="320" r="12"/>
+    <circle cx="800" cy="270" r="12"/>
+    <circle cx="970" cy="235" r="12"/>
+    <circle cx="1010" cy="320" r="12"/>
+    <circle cx="830" cy="420" r="12"/>
+    <circle cx="520" cy="500" r="12"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="18" fill="#111">
+    <text x="70" y="630">Arlington Heights, IL</text>
+    <text x="260" y="530">Niagara Falls, NY</text>
+    <text x="435" y="440">Adirondacks / Inlet, NY</text>
+    <text x="590" y="295">Lake Placid, NY</text>
+    <text x="735" y="245">Western Maine</text>
+    <text x="890" y="205">Acadia / Bar Harbor</text>
+    <text x="1025" y="325">Ellsworth / Downeast</text>
+    <text x="770" y="460">White Mountains, NH</text>
+    <text x="435" y="540">Western NY / Erie corridor</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="16" fill="#555">
+    <text x="75" y="675">Start / Finish</text>
+    <text x="60" y="720">Chicago area → Niagara → Adirondacks → Maine → Acadia → Downeast → White Mountains → Western NY → home</text>
+  </g>
+</svg>
