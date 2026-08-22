@@ -2,7 +2,7 @@
 
 Trip: Sept. 16–28, 2026
 
-![Maine road trip route](route.png)
+![Maine road trip route](route.svg)
 
 Use this as the living packing and prep list. Add items whenever they come to mind and check them off as they are packed or completed.
 
