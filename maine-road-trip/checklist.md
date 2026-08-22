@@ -14,6 +14,7 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 ## Silverado / Recovery
 - [ ] Check oil, coolant, brake fluid
 - [ ] Check all four tires and spare
+- [ ] Full-size spare tire
 - [ ] Tire pressure gauge
 - [ ] Air compressor
 - [ ] Tire plug kit
@@ -24,7 +25,8 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Shovel
 - [ ] Work gloves
 - [ ] Basic hand tools
-- [ ] Flashlight / headlamp
+- [ ] Headlamp
+- [ ] Flashlight
 - [ ] Spare fluids as needed
 
 ## XR400
