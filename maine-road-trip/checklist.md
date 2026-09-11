@@ -6,6 +6,10 @@ Trip: Sept. 16–28, 2026
 
 Use this as the living packing and prep list. Add items whenever they come to mind and check them off as they are packed or completed.
 
+## Current Camping Plan
+- [ ] Sept. 21 — Blackwoods Campground, Acadia National Park
+- [ ] Sept. 22 — Overlanding campsite (exact site TBD)
+
 ## Buy / Decide
 - [ ] Decide whether to keep the 10x10 canopy
 - [ ] Confirm exact campgrounds and hotels
@@ -116,7 +120,8 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 ## Reservations / Documents
 - [ ] Niagara lodging confirmation
 - [ ] Adirondacks campground / lodging
-- [ ] Acadia campground / lodging
+- [ ] Sept. 21 Blackwoods Campground confirmation
+- [ ] Sept. 22 overlanding campsite location confirmed
 - [ ] Bar Harbor hotel
 - [ ] Maine riding-area campground
 - [ ] White Mountains lodging
