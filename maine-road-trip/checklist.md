@@ -6,15 +6,24 @@ Trip: Sept. 16–28, 2026
 
 Use this as the living packing and prep list. Add items whenever they come to mind and check them off as they are packed or completed.
 
-## Current Camping Plan
+## Current Route / Overnight Plan
+- [ ] Sept. 16 — Chicago area → Niagara Falls
+- [ ] Sept. 17–20 — Adirondacks / Lake Placid / scenic transit toward Maine
 - [ ] Sept. 21 — Blackwoods Campground, Acadia National Park
-- [ ] Sept. 22 — Overlanding campsite (exact site TBD)
+- [ ] Sept. 22 — Overlanding campsite near Acadia (exact site TBD)
+- [ ] Sept. 23–24 — Portland, Maine Airbnb — planned total $377
+- [ ] Sept. 24–25 — Salem stop → overnight in Boston
+- [ ] Sept. 25–26 — Camp on Cape Cod
+- [ ] Sept. 26 — Start return west; overnight TBD
+- [ ] Sept. 27 — Western NY / return leg TBD
+- [ ] Sept. 28 — Return home
 
 ## Buy / Decide
 - [ ] Decide whether to keep the 10x10 canopy
 - [ ] Confirm exact campgrounds and hotels
+- [ ] Decide exact Sept. 16–21 activities / excursions
 - [ ] Confirm Cadillac Mountain reservation plan
-- [ ] Confirm Maine ATV registration / trail requirements
+- [ ] Confirm Maine ATV registration / trail requirements if bringing/riding XR400
 - [ ] Confirm XR400 street-legal / registration plan
 
 ## Silverado / Recovery
@@ -107,8 +116,9 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Offline maps — Niagara
 - [ ] Offline maps — Adirondacks
 - [ ] Offline maps — Acadia
-- [ ] Offline maps — Downeast Maine
-- [ ] Offline maps — White Mountains
+- [ ] Offline maps — Portland / Salem / Boston
+- [ ] Offline maps — Cape Cod
+- [ ] Offline maps — return route
 - [ ] Phone chargers
 - [ ] Vehicle chargers
 - [ ] Power bank
@@ -122,13 +132,14 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Adirondacks campground / lodging
 - [ ] Sept. 21 Blackwoods Campground confirmation
 - [ ] Sept. 22 overlanding campsite location confirmed
-- [ ] Bar Harbor hotel
-- [ ] Maine riding-area campground
-- [ ] White Mountains lodging
+- [ ] Sept. 23–24 Portland Airbnb confirmation ($377 planned total)
+- [ ] Sept. 24–25 Boston lodging confirmation
+- [ ] Sept. 25–26 Cape Cod campsite reservation
+- [ ] Sept. 26 return-route lodging/camp TBD
 - [ ] Western NY return-night lodging
-- [ ] Cadillac Mountain reservation
+- [ ] Cadillac Mountain reservation if desired
 - [ ] Acadia entrance pass / requirements
-- [ ] Maine ATV registration
+- [ ] Maine ATV registration if needed
 - [ ] Roadside-assistance info
 - [ ] Auto insurance info
 - [ ] XR400 paperwork
@@ -140,7 +151,7 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Confirm bike rack security
 - [ ] Check weather along route
 - [ ] Check Moose River Plains access / closures
-- [ ] Check Maine ATV trail closures
+- [ ] Check Maine ATV trail closures if riding
 - [ ] Check Acadia alerts / road closures
 - [ ] Fill Silverado fuel tank
 - [ ] Load cooler
