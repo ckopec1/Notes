@@ -7,8 +7,11 @@ Trip: Sept. 16–28, 2026
 Use this as the living packing and prep list. Add items whenever they come to mind and check them off as they are packed or completed.
 
 ## Current Route / Overnight Plan
-- [ ] Sept. 16 — Chicago area → Niagara Falls
-- [ ] Sept. 17–20 — Adirondacks / Lake Placid / scenic transit toward Maine
+- [ ] Sept. 16 — Chicago area → Niagara Falls; hotel overnight
+- [ ] Sept. 17 — Niagara morning excursion (Maid of the Mist and/or Cave of the Winds) → Adirondacks basecamp
+- [ ] Sept. 18 — Moose River Plains / Silverado forest-road adventure + camp
+- [ ] Sept. 19 — Hudson River whitewater rafting → Lake Placid; hotel/lodge overnight
+- [ ] Sept. 20 — Lake Placid morning → scenic transit toward Maine; camp en route
 - [ ] Sept. 21 — Blackwoods Campground, Acadia National Park
 - [ ] Sept. 22 — Overlanding campsite near Acadia (exact site TBD)
 - [ ] Sept. 23–24 — Portland, Maine Airbnb — planned total $377
@@ -21,7 +24,8 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 ## Buy / Decide
 - [ ] Decide whether to keep the 10x10 canopy
 - [ ] Confirm exact campgrounds and hotels
-- [ ] Decide exact Sept. 16–21 activities / excursions
+- [ ] Reserve Sept. 19 Hudson River rafting and confirm meeting time/location
+- [ ] Decide Niagara excursion: Maid of the Mist, Cave of the Winds, or both
 - [ ] Confirm Cadillac Mountain reservation plan
 - [ ] Confirm Maine ATV registration / trail requirements if bringing/riding XR400
 - [ ] Confirm XR400 street-legal / registration plan
@@ -129,7 +133,11 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 
 ## Reservations / Documents
 - [ ] Niagara lodging confirmation
+- [ ] Niagara excursion tickets / timing if booking ahead
 - [ ] Adirondacks campground / lodging
+- [ ] Sept. 19 rafting reservation
+- [ ] Lake Placid hotel/lodge confirmation
+- [ ] Sept. 20 transit campsite location confirmed
 - [ ] Sept. 21 Blackwoods Campground confirmation
 - [ ] Sept. 22 overlanding campsite location confirmed
 - [ ] Sept. 23–24 Portland Airbnb confirmation ($377 planned total)
