@@ -82,6 +82,7 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 ## Camping
 - [ ] Napier truck-bed tent
 - [ ] Mattress / sleeping pad
+- [ ] Insulation under air mattress / sleeping pad
 - [ ] Pump
 - [ ] Sleeping bags / blankets
 - [ ] Pillows
