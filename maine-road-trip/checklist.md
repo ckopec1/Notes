@@ -21,18 +21,18 @@ Type these into GPS **one at a time in this order**:
 
 **Driving style:** use coastal/local roads when the time penalty is reasonable. The goal is cute historic towns, ocean views, old houses, harbors, and shops — not the fastest interstate-only route.
 
-### Saturday, Sept. 26 — Mystic → Catskills dirt roads → impressive camp
+### Saturday, Sept. 26 — Mystic → Catskills 4WD + mountain bike → impressive camp
 Type these into GPS **one at a time in this order**:
 
 1. **Rochester Hollow Trailhead / Matyas Road, Shandaken, NY** — 4WD access-road section; stop at the legal trailhead/parking area and do not drive through the gate
-2. **Alder Lake, Hardenburgh, NY** — dirt-road access and scenic lake; optional if time/road conditions are good
+2. **Elm Ridge Wild Forest Parking Area, NY-23 & Cross Rd, Windham, NY 12496** — mountain-bike stop. Purpose-built Catskills singletrack with 25+ miles available. For a shorter ride, use the lower FUN Loops; for more challenge/climbing, work toward Levitate / ridge trails. **Only ride if the trails are reasonably dry — skip if muddy after the storm.**
 3. **North-South Lake Campground, Haines Falls, NY 12436** — Saturday-night camp; showers, lake/mountain scenery
 
-**Optional extra dirt road:** **Balsam Lake Mountain Trailhead via Beaverkill Road, Hardenburgh, NY**. Add only if daylight and conditions are good.
+**Optional dirt-road add-ons:** **Alder Lake, Hardenburgh, NY** or **Balsam Lake Mountain Trailhead via Beaverkill Road, Hardenburgh, NY**. Add only if daylight and road conditions are good. Do not try to cram both in if you ride Elm Ridge.
 
 **Truck rule:** these are public/access roads, not an invitation to drive past gates or closures. Turn around for deep mud, major washouts, questionable water crossings, or anything that risks the Silverado's rockers/running boards. Re-check current DEC road conditions before entering.
 
-**Saturday priority:** do 1–2 dirt-road sections, then get to North-South Lake with enough daylight to enjoy camp, shower, cook, and have a fire.
+**Saturday priority:** Matyas Road + an Elm Ridge mountain-bike ride + North-South Lake. Treat Alder Lake / Beaverkill as bonus stops only. Get to camp with enough daylight to enjoy the lake, shower, cook, and have a fire.
 
 ## Current Route / Overnight Plan
 - [ ] Sept. 16 — Chicago area → Niagara Falls; hotel overnight
