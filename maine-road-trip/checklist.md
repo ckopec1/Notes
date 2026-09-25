@@ -6,6 +6,34 @@ Trip: Sept. 16–28, 2026
 
 Use this as the living packing and prep list. Add items whenever they come to mind and check them off as they are packed or completed.
 
+
+## GPS Order — Fri/Sat Return Leg
+
+### Friday, Sept. 25 — Kennebunk → coastal towns → Mystic
+Type these into GPS **one at a time in this order**:
+
+1. **Dock Square, Kennebunkport, ME** — enjoy Kennebunk/Kennebunkport before leaving
+2. **Prescott Park, 105 Marcy St, Portsmouth, NH 03801** — quick historic waterfront walk
+3. **Bearskin Neck, Rockport, MA 01966** — harbor, old houses, shops, Motif No. 1
+4. **Downtown Mystic, 2 W Main St, Mystic, CT 06355** — evening walk / Friday overnight
+
+**Optional stop if there is plenty of time:** **Newburyport Waterfront Park, 1 Market Square, Newburyport, MA 01950** between Portsmouth and Rockport.
+
+**Driving style:** use coastal/local roads when the time penalty is reasonable. The goal is cute historic towns, ocean views, old houses, harbors, and shops — not the fastest interstate-only route.
+
+### Saturday, Sept. 26 — Mystic → Catskills dirt roads → impressive camp
+Type these into GPS **one at a time in this order**:
+
+1. **Rochester Hollow Trailhead / Matyas Road, Shandaken, NY** — 4WD access-road section; stop at the legal trailhead/parking area and do not drive through the gate
+2. **Alder Lake, Hardenburgh, NY** — dirt-road access and scenic lake; optional if time/road conditions are good
+3. **North-South Lake Campground, Haines Falls, NY 12436** — Saturday-night camp; showers, lake/mountain scenery
+
+**Optional extra dirt road:** **Balsam Lake Mountain Trailhead via Beaverkill Road, Hardenburgh, NY**. Add only if daylight and conditions are good.
+
+**Truck rule:** these are public/access roads, not an invitation to drive past gates or closures. Turn around for deep mud, major washouts, questionable water crossings, or anything that risks the Silverado's rockers/running boards. Re-check current DEC road conditions before entering.
+
+**Saturday priority:** do 1–2 dirt-road sections, then get to North-South Lake with enough daylight to enjoy camp, shower, cook, and have a fire.
+
 ## Current Route / Overnight Plan
 - [ ] Sept. 16 — Chicago area → Niagara Falls; hotel overnight
 - [ ] Sept. 17 — Niagara morning excursion (Maid of the Mist and/or Cave of the Winds) → Adirondacks basecamp
@@ -14,11 +42,11 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Sept. 20 — Lake Placid morning → scenic transit toward Maine; camp en route
 - [ ] Sept. 21 — Blackwoods Campground, Acadia National Park
 - [ ] Sept. 22 — Overlanding campsite near Acadia (exact site TBD)
-- [ ] Sept. 23–24 — Portland, Maine Airbnb — planned total $377
-- [ ] Sept. 24–25 — Salem stop → overnight in Boston
-- [ ] Sept. 25–26 — Camp on Cape Cod
-- [ ] Sept. 26 — Start return west; overnight TBD
-- [ ] Sept. 27 — Western NY / return leg TBD
+- [ ] Sept. 23–24 — Portland, Maine
+- [ ] Sept. 24 — Kennebunk/Kennebunkport
+- [ ] Sept. 25 — Kennebunk → Portsmouth → Rockport → Mystic, Connecticut
+- [ ] Sept. 26 — Mystic → Catskills 4WD/dirt-road day → North-South Lake Campground
+- [ ] Sept. 27 — Continue west through New York toward home
 - [ ] Sept. 28 — Return home
 
 ## Buy / Decide
@@ -27,8 +55,6 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Reserve Sept. 19 Hudson River rafting and confirm meeting time/location
 - [ ] Decide Niagara excursion: Maid of the Mist, Cave of the Winds, or both
 - [ ] Confirm Cadillac Mountain reservation plan
-- [ ] Confirm Maine ATV registration / trail requirements if bringing/riding XR400
-- [ ] Confirm XR400 street-legal / registration plan
 
 ## Silverado / Recovery
 - [ ] Check oil, coolant, brake fluid
@@ -47,26 +73,6 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Headlamp
 - [ ] Flashlight
 - [ ] Spare fluids as needed
-
-## XR400
-- [ ] Helmet
-- [ ] Boots
-- [ ] Gloves
-- [ ] Riding gear
-- [ ] Oil / filter service complete
-- [ ] Air filter checked
-- [ ] Chain adjusted and lubricated
-- [ ] Tires checked
-- [ ] Brakes checked
-- [ ] Spare spark plug
-- [ ] Tire irons
-- [ ] Tube / tire repair solution
-- [ ] Compact pump
-- [ ] Spare master link
-- [ ] Trail-side tool kit
-- [ ] Fuel plan / extra fuel if needed
-- [ ] Lock / chain
-- [ ] Title / registration / insurance paperwork
 
 ## Bicycles
 - [ ] Helmets
@@ -148,19 +154,15 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Western NY return-night lodging
 - [ ] Cadillac Mountain reservation if desired
 - [ ] Acadia entrance pass / requirements
-- [ ] Maine ATV registration if needed
 - [ ] Roadside-assistance info
 - [ ] Auto insurance info
-- [ ] XR400 paperwork
 - [ ] Reservation confirmation numbers saved offline
 
 ## Before Departure
-- [ ] Full-load Silverado + XR400 shakedown drive
 - [ ] Recheck all tie-downs after shakedown
 - [ ] Confirm bike rack security
 - [ ] Check weather along route
 - [ ] Check Moose River Plains access / closures
-- [ ] Check Maine ATV trail closures if riding
 - [ ] Check Acadia alerts / road closures
 - [ ] Fill Silverado fuel tank
 - [ ] Load cooler
