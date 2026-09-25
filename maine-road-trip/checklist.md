@@ -7,41 +7,43 @@ Trip: Sept. 16–28, 2026
 Use this as the living packing and prep list. Add items whenever they come to mind and check them off as they are packed or completed.
 
 
-## Simple Agenda — Return Home
+## Simple Agenda — Storm-Avoidance Route Home
 
 ### Friday, Sept. 25
-**Kennebunk → Portsmouth → Rockport → Mystic**
-- Portsmouth waterfront
-- Rockport / Bearskin Neck
-- Newburyport optional
-- Sleep in Mystic
+**Get inland and west**
+- Skip Rockport, Newburyport, and Mystic
+- Portsmouth only if already nearby and conditions are comfortable
+- Head west toward **Albany, NY**
+- Sleep: Albany area
+- Goal: be well inland before the stronger coastal wind/rain tonight
 
 ### Saturday, Sept. 26
-**Mystic → Catskills → North-South Lake**
-- Matyas Road / Rochester Hollow — 4WD if conditions are good
-- Elm Ridge — mountain bike if trails are dry
-- Alder Lake / Beaverkill Road optional
-- Camp at North-South Lake
-- Bad weather: skip dirt roads / MTB and continue west
+**Albany → west across New York**
+- Leave early and keep moving west
+- Catskills / Matyas Road / Elm Ridge only if conditions are clearly dry and safe
+- Otherwise skip them completely
+- Do **not** force North-South Lake camping in stormy conditions
+- Overnight farther west in New York
 
 ### Sunday, Sept. 27
-**Catskills → western New York**
-- Scenic drive west
-- Overnight in western NY
+**Western New York → continue west**
+- Keep making progress toward Chicago
+- Scenic / outdoor stops only if weather cooperates
 
 ### Monday, Sept. 28
-**Western New York → Arlington Heights**
+**→ Arlington Heights**
 - Home
 
-### GPS — one at a time
-1. **Prescott Park, 105 Marcy St, Portsmouth, NH 03801**
-2. **Bearskin Neck, Rockport, MA 01966**
-3. **Downtown Mystic, 2 W Main St, Mystic, CT 06355**
-4. **Rochester Hollow Trailhead / Matyas Road, Shandaken, NY**
-5. **Elm Ridge Wild Forest Parking Area, NY-23 & Cross Rd, Windham, NY 12496**
-6. **North-South Lake Campground, Haines Falls, NY 12436**
+### GPS — storm route
+1. **Albany, NY**
+2. **Western New York / next overnight**
+3. **Arlington Heights, IL**
 
-**Weather rule:** don't force the 4WD road, MTB ride, or camping if storm conditions are bad.
+### Optional only if weather is good
+- **Rochester Hollow Trailhead / Matyas Road, Shandaken, NY**
+- **Elm Ridge Wild Forest Parking Area, Windham, NY**
+
+**Storm rule:** coastal sightseeing is no longer the priority. Stay inland, keep moving west, and skip dirt roads, MTB, or camping if rain/wind makes them questionable.
 
 ## Current Route / Overnight Plan
 - [ ] Sept. 16 — Chicago area → Niagara Falls; hotel overnight
@@ -53,9 +55,9 @@ Use this as the living packing and prep list. Add items whenever they come to mi
 - [ ] Sept. 22 — Overlanding campsite near Acadia (exact site TBD)
 - [ ] Sept. 23–24 — Portland, Maine
 - [ ] Sept. 24 — Kennebunk/Kennebunkport
-- [ ] Sept. 25 — Kennebunk → Portsmouth → Rockport → Mystic, Connecticut
-- [ ] Sept. 26 — Mystic → Catskills 4WD/dirt-road day → North-South Lake Campground
-- [ ] Sept. 27 — Continue west through New York toward home
+- [ ] Sept. 25 — Leave the coast → head inland/west → Albany area
+- [ ] Sept. 26 — Albany → continue west across New York; Catskills activities only if dry/safe
+- [ ] Sept. 27 — Western New York → continue west toward home
 - [ ] Sept. 28 — Return home
 
 ## Buy / Decide
