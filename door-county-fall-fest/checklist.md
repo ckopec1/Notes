@@ -40,7 +40,13 @@ Camping goal: move from Napier truck-bed tent to a fast hard-shell rooftop tent 
 - [ ] Fitted sheet / mattress cover
 - [ ] Pillows
 - [ ] Insulation beneath mattress if RTT mattress feels cold
-- [ ] 12V heated mattress pad once power station is available
+- [ ] Heated mattress pad
+- [ ] Electric space heater as an optional shore-power cold-weather backup
+  - Use only while awake / to preheat the RTT
+  - Keep well clear of tent fabric, bedding, and other combustibles
+  - Place on a stable surface with tip-over and overheat protection
+  - Use campground/GFCI shore power; do not plan to run it from the battery station
+  - Turn it off before sleeping or leaving the tent
 - [ ] Warm sleep clothes / socks / beanie
 - [ ] Small entry mat or shoe bin for bottom of ladder
 - [ ] Keep wet shoes outside sleeping area
