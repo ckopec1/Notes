@@ -82,6 +82,7 @@ For this trip, do not build the slide-out kitchen yet.
 - [ ] Headlamps
 - [ ] Lantern
 - [ ] Phone charging cables
+- [ ] 30A-male-to-15A-female RV adapter (backup for campsite shore power)
 - [ ] Weatherproof storage bins
 - [ ] First-aid kit
 - [ ] Fire extinguisher
